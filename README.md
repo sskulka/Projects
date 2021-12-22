@@ -1,8 +1,18 @@
 # My-Repository
 
+base_img_inference-
+    Contains the DL CNN to perform image classification based on the training on the CIFAR10 dataset
+    
+Q6-
+    Contains the files for bilateralFilter through openCV
+    
+puCUDA_openCV_Grayscale_image-
+    Contains the codes to convert image into grayscale through PyCUDA and OpenCV.
+    
+pthreads_prime_num.cpp-
+    Using pthreads multi-threading to find the sum of all prime numbers between 1 to 1 million.
 
-
-AuE893_project
+AuE893_project-
 
     Active files-
 
